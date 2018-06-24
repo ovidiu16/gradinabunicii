@@ -1,0 +1,80 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 47.5%;
+	font-family: Helvetica, sans-serif;
+	background: url(images/stripe.png) repeat;
+}
+
+p {
+	font-size: 1.0em;
+	margin-bottom: 10px;
+}
+
+#page-wrap {
+	width: 360px;
+	background: white;
+	padding: 20px 50px 20px 50px;
+	margin: 20px auto;
+	min-height: 600px;
+	height: auto !important;
+	height: 600px;
+}
+
+#contact-area {
+	width: 300px;
+	margin-top: 25px;
+}
+
+#contact-area input, #contact-area textarea , #contact-area comenzi {
+	padding: 5px;
+	width: 320px;
+	font-family: Helvetica, sans-serif;
+	font-size: 1.0em;
+	margin-left: 10px;
+	border: 2px solid #ccc;
+}
+
+#contact-area textarea {
+	height: 50px;
+}
+#contact-area comenzi {
+	height: 15px;
+}
+
+#contact-area textarea:focus, #contact-area input:focus {
+	border: 2px solid #700;
+}
+
+#contact-area input..wrapper {
+	text-align: center;
+	 position: absolute;
+width: 60px;
+}
+
+td.left {
+	width: 120px;
+	text-align: left;
+	font-size: 1.0em;
+]
+
+#catpcha-area {
+	margin-left: 200px;
+}
+
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+#contact-area .com {
+	padding: 5px;
+	width: 220px;
+	font-family: Helvetica, sans-serif;
+	font-size: 1.0em;
+	margin-left: 15px;
+	border: 2px solid #ccc;
+}
